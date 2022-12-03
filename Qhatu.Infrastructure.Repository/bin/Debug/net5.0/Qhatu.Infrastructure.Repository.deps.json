@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Qhatu.Infrastructure.Repository/1.0.0": {
+        "dependencies": {
+          "Dapper.SimpleCRUD": "2.3.0",
+          "Qhatu.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Qhatu.Infrastructure.Repository.dll": {}
+        }
+      },
+      "Dapper/2.0.78": {
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.78.45418"
+          }
+        }
+      },
+      "Dapper.SimpleCRUD/2.3.0": {
+        "dependencies": {
+          "Dapper": "2.0.78",
+          "Microsoft.CSharp": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.SimpleCRUD.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "Qhatu.Domain/1.0.0": {
+        "runtime": {
+          "Qhatu.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Qhatu.Infrastructure.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper/2.0.78": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLPwL2HZXp/DN17Eu7sg6GMEj02alq7jcy6atn5Gv8i96b9Hu1UoxlCrhInUPfSFLQQiD8O7pdWAE1fdUEO/1Q==",
+      "path": "dapper/2.0.78",
+      "hashPath": "dapper.2.0.78.nupkg.sha512"
+    },
+    "Dapper.SimpleCRUD/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9wj9b3IYADmNea3hwlkS0qKRCcbTYcJ4uYCdZdE9O34nTvl0mJv1Hy6sSFA5t/UN8zKscWiDFWT8B+4tOnoQvA==",
+      "path": "dapper.simplecrud/2.3.0",
+      "hashPath": "dapper.simplecrud.2.3.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "Qhatu.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

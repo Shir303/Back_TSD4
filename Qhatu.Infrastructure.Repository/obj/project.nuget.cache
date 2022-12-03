@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lda3joPsWBgeLd8pxiiePeSAb55rBEgN8Fnt65j6xDUVRHVoiWQox6gISHlJRFnSBp6IY9HhvSOLsXeK4C+m6w==",
+  "success": true,
+  "projectFilePath": "D:\\PROYECTOSREACT\\QhatuRestService\\Qhatu.Infrastructure.Repository\\Qhatu.Infrastructure.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\dapper.simplecrud\\2.3.0\\dapper.simplecrud.2.3.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

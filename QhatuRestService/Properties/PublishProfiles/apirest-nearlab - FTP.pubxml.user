@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIuIxlRo7sUKbxhlpAyDhGAAAAAACAAAAAAAQZgAAAAEAACAAAAD36kmWMlTCWQ1Fip8npGAuPLzzRisxNCoDsNoHTrTBxwAAAAAOgAAAAAIAACAAAADiN1Rg8K03qdvF9JodkOWP4Ag0/Xl2imO4vQzFrZRjdYAAAAB3RJnwIeOJK0QAWRCwRjwU0kO/ntnxRPYu4h3/H1pseMmuGIAa103Ddoe969kMPXnY1WwqYGmarDr1dmygxeEdWz7Veas4vP125/XyXTyObQMc4QWbuhoheOxPNqstkLIiEnBN2d04srpk8VuZ/tEORETdAMlCtnHR3Eqr2NLdiUAAAACLtbQWDSGJdpDPp4Nxws3FeksOV3DMMnYgFRRUMRF8kutuqUx7E2HBh1NL0ux2upgol+Ju4MRJOqED10kIbFCS</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-cq1-031.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2022-10-28T23:51:02.2994640Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/02/2021 09:15:06</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/28/2022 18:47:07</publishTime>
+    </File>
+    <File Include="Dapper.dll">
+      <publishTime>11/17/2020 04:59:00</publishTime>
+    </File>
+    <File Include="Dapper.SimpleCRUD.dll">
+      <publishTime>03/15/2021 02:15:46</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>11/22/2017 05:48:10</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>11/22/2017 05:48:14</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 18:06:14</publishTime>
+    </File>
+    <File Include="Qhatu.Domain.dll">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Domain.pdb">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Helpers.dll">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Helpers.pdb">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Infrastructure.Repository.dll">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Infrastructure.Repository.pdb">
+      <publishTime>10/28/2022 18:47:25</publishTime>
+    </File>
+    <File Include="Qhatu.Infrastructure.UnitOfWork.dll">
+      <publishTime>10/28/2022 18:47:26</publishTime>
+    </File>
+    <File Include="Qhatu.Infrastructure.UnitOfWork.pdb">
+      <publishTime>10/28/2022 18:47:26</publishTime>
+    </File>
+    <File Include="QhatuRestService.deps.json">
+      <publishTime>10/28/2022 18:47:27</publishTime>
+    </File>
+    <File Include="QhatuRestService.dll">
+      <publishTime>10/28/2022 18:47:27</publishTime>
+    </File>
+    <File Include="QhatuRestService.exe">
+      <publishTime>10/28/2022 18:47:27</publishTime>
+    </File>
+    <File Include="QhatuRestService.pdb">
+      <publishTime>10/28/2022 18:47:27</publishTime>
+    </File>
+    <File Include="QhatuRestService.runtimeconfig.json">
+      <publishTime>10/28/2022 18:47:27</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 16:33:18</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 16:33:24</publishTime>
+    </File>
+    <File Include="Serilog.AspNetCore.dll">
+      <publishTime>03/28/2021 22:18:04</publishTime>
+    </File>
+    <File Include="Serilog.dll">
+      <publishTime>09/09/2020 21:20:18</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Hosting.dll">
+      <publishTime>03/03/2021 01:26:52</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.dll">
+      <publishTime>08/21/2019 18:09:16</publishTime>
+    </File>
+    <File Include="Serilog.Formatting.Compact.dll">
+      <publishTime>10/17/2019 00:18:46</publishTime>
+    </File>
+    <File Include="Serilog.Settings.Configuration.dll">
+      <publishTime>06/01/2019 19:57:40</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Console.dll">
+      <publishTime>10/22/2017 11:48:40</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Debug.dll">
+      <publishTime>02/14/2021 02:47:26</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.File.dll">
+      <publishTime>10/17/2019 00:25:34</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 07:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 07:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 07:47:24</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 16:21:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/28/2022 18:47:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

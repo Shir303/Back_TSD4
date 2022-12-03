@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45d7c0c3-dfe2-44ad-a0d6-89f8f1733301": {
+      "ProjectGuid": "45d7c0c3-dfe2-44ad-a0d6-89f8f1733301",
+      "DisplayName": "QhatuRestService",
+      "ColorIndex": 0
+    },
+    "f030c0df-9230-4f4a-9f12-cffb1433bc5c": {
+      "ProjectGuid": "f030c0df-9230-4f4a-9f12-cffb1433bc5c",
+      "DisplayName": "Qhatu.Domain",
+      "ColorIndex": 1
+    },
+    "7bb957d5-62ff-4c12-aa0c-2c5d43c35cfd": {
+      "ProjectGuid": "7bb957d5-62ff-4c12-aa0c-2c5d43c35cfd",
+      "DisplayName": "Qhatu.Infrastructure.Repository",
+      "ColorIndex": 2
+    },
+    "6415b00a-49e9-436c-8424-3d2c50562745": {
+      "ProjectGuid": "6415b00a-49e9-436c-8424-3d2c50562745",
+      "DisplayName": "Qhatu.Helpers",
+      "ColorIndex": 3
+    },
+    "8c413351-bca2-402a-8e80-8e75b9fbbf84": {
+      "ProjectGuid": "8c413351-bca2-402a-8e80-8e75b9fbbf84",
+      "DisplayName": "Qhatu.Infrastructure.UnitOfWork",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
